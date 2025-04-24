@@ -1,9 +1,12 @@
-<!-- Cabeçalho Dinâmico -->
+<!-- Cabeçalho Dinâmico com Gradiente -->
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=5005&pause=1000&color=7436BD&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Carlos+J.+Raymundo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4284&pause=1000&color=7436BD&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Carlos+J.+Raymundo;Desenvolvedor+em+forma%C3%A7%C3%A3o;Entusiasta+DevOps;Apaixonado+por+tecnologia+%3C3" alt="Typing SVG" /></a>
+  </a>
 </div>
 
 ---
+
 
 ### 🚀 **Foco Atual**
 <p align="left">
@@ -12,29 +15,25 @@
   <img src="https://img.shields.io/badge/-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-- 🔭 **Trabalhando em:** Automação de pipelines CI/CD
-- 🌱 **Aprendendo:** Arquitetura de microsserviços com Kubernetes
-- 💡 **Interesses:** Sistemas distribuídos e otimização de performance
+- 🔭 **Trabalhando em:** Portfolio pessoal
+- 🌱 **Aprendendo:** Java
+- 💡 **Interesses:** Desenvolvimento back-end
 
 ---
 
 ### 🛠️ **Stack Tecnológica**
 
-#### **Linguagens**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+#### **Linguagens & Ferramentas**
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
+
 #### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
@@ -54,36 +53,54 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CarlosJRay&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=CarlosJRay&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
 
 ### 🌍 **Conecte-se Comigo**
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center"> 
+  <a href="https://www.youtube.com/@CarlosJRay" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/Carlosjunior5933" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/carlaopizza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/xCcVYYD2JU" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a> 
+  <a href = "mailto:Carlosjunior1525@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlosjuniorraymundo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
 </div>
-
 
 ---
 
 ### 📌 **Destaques**
-🔭 **Projeto Recente:** [Nome do Projeto] - Breve descrição + link  
-📝 **Último Artigo:** [Título do Artigo] - Link para blog/Medium/Dev.to  
+🔭 **Projeto Recente:** [APS] - Website em HTML e CSS sobre plantio agricola para a faculdade.
+<!---
+📝 **Último Artigo:** [] - Link para blog/Medium/Dev.to
+ ---> 
 
 ---
+
+### 🐍 **Contribuições**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosJRay/CarlosJRay/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosJRay/CarlosJRay/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosJRay/CarlosJRay/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
 
 <div align="center">
   <i>"Código é poesia lógica que transforma bits em valor real"</i> 🚀<br>
