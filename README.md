@@ -1,6 +1,6 @@
 <!-- Cabeçalho Dinâmico -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7FF&width=435&lines=Olá%2C+eu+sou+Carlos+J.+Ray!;Desenvolvedor+BackEnd;Entusiasta+DevOps;Aprendizado+Contínuo" alt="Typing Animation" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=5005&pause=1000&color=7436BD&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Carlos+J.+Raymundo" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CarlosJRay&theme=shades-of-purple&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CarlosJRay&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
@@ -79,6 +79,7 @@
 📝 **Último Artigo:** [Título do Artigo] - Link para blog/Medium/Dev.to  
 
 ---
+![Snake Animation](https://github.com/CarlosJRay)
 
 <div align="center">
   <i>"Código é poesia lógica que transforma bits em valor real"</i> 🚀<br>
